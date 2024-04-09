@@ -57,7 +57,7 @@ const Successful = () => {
         <p  className='text-slate-600 text-lg'>Wrong email address?<span className='text-pink-600 font-bold'>Change it.</span></p>
         </div>
       </section>
-      <section className=' h-full flex md:flex-col gap-8 bg-slate-200 p-10'>
+      <section className=' h-full flex  flex-col md:flex-row  gap-8 bg-slate-200 p-10'>
        <div className=' flex flex-col w-[19rem] gap-4 border'>
        <h1 className='text-pink-600 text-3xl font-serif font-bold'>dribbble</h1>
        <p className='text-lg font-semibold text-slate-500'>Dribbble is the world's leading community for creatives to share, grow,and get hired</p>
